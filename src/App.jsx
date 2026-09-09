@@ -111,11 +111,11 @@ function App() {
           </div>
           <h1>
             Harrison King
-            <span> builds practical software for real-world systems.</span>
+            
           </h1>
           <p className="hero-lede">
-            Computer Science graduate and technology professional focused on API-driven applications,
-            automation, data tooling, and dependable systems. I enjoy turning messy operational problems
+            Computer science graduate with professional experience in application development, data analysis, and automation.
+            I enjoy turning messy operational problems
             into software that is easier to use, understand, and maintain.
           </p>
           <div className="hero-actions">
