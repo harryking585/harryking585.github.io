@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import {
   ArrowUpRight,
-  BriefcaseBusiness,
+  Briefcase,
   Code2,
   Database,
   Github,
@@ -183,7 +183,7 @@ function App() {
             >
               <div className="experience-meta">
                 <div className="experience-icon">
-                  <BriefcaseBusiness size={18} />
+                  <Briefcase size={18} />
                 </div>
                 <div>
                   <h3>{job.role}</h3>
