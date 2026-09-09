@@ -18,13 +18,10 @@ const experience = [
     role: "Security / Audio-Visual System Specialist",
     period: "Jan 2025 — Present",
     summary:
-      "Supporting county-wide camera and AV infrastructure while building automation and internal tooling that reduce repetitive operational work.",
+      "Supporting enterprise physical-security systems and developing internal automation where applicable.",
     highlights: [
-      "Developed PowerShell UI automation for election-cycle camera recording workflows.",
-      "Redesigned an internal ticketing dashboard and supporting queries to improve operational visibility.",
-      "Maintain and troubleshoot a surveillance environment spanning more than 1,000 endpoints.",
     ],
-    tags: ["PowerShell", "Automation", "Systems", "Operations"],
+    tags: ["Systems", "Operations", "PowerShell", "Automation",],
   },
   {
     company: "City of Round Rock",
