@@ -14,16 +14,6 @@ import "./styles.css";
 
 const experience = [
   {
-    company: "Williamson County",
-    role: "Security / Audio-Visual System Specialist",
-    period: "Jan 2025 — Present",
-    summary:
-      "Supporting enterprise physical-security systems and developing internal automation where applicable.",
-    highlights: [
-    ],
-    tags: ["Systems", "Operations", "PowerShell", "Automation",],
-  },
-  {
     company: "City of Round Rock",
     role: "Information Technology Intern",
     period: "May 2024 — Aug 2024",
@@ -49,6 +39,16 @@ const experience = [
     ],
     tags: ["Python", "Pandas", "REST APIs", "Selenium", "Data Analysis"],
   },
+  {
+    company: "Williamson County",
+    role: "Security / Audio-Visual System Specialist",
+    period: "Jan 2025 — Present",
+    summary:
+      "Supporting enterprise physical-security systems and developing internal automation where applicable.",
+    highlights: [
+    ],
+    tags: ["Systems", "Operations", "PowerShell", "Automation",],
+  }
 ];
 
 const skillGroups = [
@@ -163,7 +163,7 @@ function App() {
 
       <section id="experience" className="section shell">
         <SectionHeading
-          kicker="Professional experience"
+          kicker="Selected Experience"
           title="Technical work in production environments"
           body="My strongest engineering experience comes from solving operational, application, and data problems in real organizations."
         />
