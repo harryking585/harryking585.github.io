@@ -60,7 +60,7 @@ const skillGroups = [
   {
     title: "Data & Automation",
     icon: Workflow,
-    skills: ["SQL", "Pandas", "Power BI", "Selenium", "PowerShell", "LLM-assisted workflows"],
+    skills: ["SQL", "Pandas", "Power BI", "Selenium", "PowerShell"],
   },
   {
     title: "Systems & Tooling",
@@ -165,7 +165,7 @@ function App() {
         <SectionHeading
           kicker="Selected Experience"
           title="Technical work in production environments"
-          body="My strongest engineering experience comes from solving operational, application, and data problems in real organizations."
+          body="Selected technical work from my professional experience."
         />
 
         <div className="experience-list">
