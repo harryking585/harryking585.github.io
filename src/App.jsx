@@ -34,7 +34,7 @@ const experience = [
       "Created data tools and automations for a biotechnology startup, combining API integration, forecasting, browser automation, and reporting.",
     highlights: [
       "Built a Pandas-based throughput forecasting tool using 10,000+ rows of operational data.",
-      "Integrated Workday REST API data into analytics workflows.",
+      "Integrated REST API data into analytics workflows.",
       "Automated receipt processing with Selenium, regex-based parsing, and lightweight LLM assistance.",
     ],
     tags: ["Python", "Pandas", "REST APIs", "Selenium", "Data Analysis"],
